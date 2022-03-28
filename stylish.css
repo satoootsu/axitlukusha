@@ -1,0 +1,50 @@
+.stylish{
+    background-image: url("image/bg1.png") ;
+    height: 442px;
+    width: 1170px;
+    padding:0;
+    margin-top: 64px;
+}
+
+.stylish__box {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0;
+    height: 100%;
+}
+
+.stylish__title{
+    font-family: 'Raleway',sans-serif;
+    font-size: 36px;
+    line-height: 150px;
+    color: #FFFFFF;
+    padding: 50px 377px 40px;
+    height: 150px;
+}
+
+.stylish__subtitle{
+    font-family: 'Raleway',sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.stylish__button{
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    background: 0;
+    width: 370px;
+    height: 58px;
+    margin: 73px 400px 0;
+    padding: 0;
+
+    font-family: 'Open Sans',sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+

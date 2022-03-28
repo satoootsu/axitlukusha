@@ -1,0 +1,239 @@
+.axit{
+    padding: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+}
+
+
+.axit__header{
+    height: 75px;
+    background: black;
+    justify-content: space-between;
+    display: flex;
+    padding: 0;
+}
+
+.axit__header__name{
+    padding-left: 7.5%;
+    line-height: 96px;
+}
+
+.axit__header__name__ax{
+    padding: 0;
+}
+
+.axit__header__name__it{
+    padding: 0;
+}
+
+.axit__header__menu{
+    padding-right: 10%;
+    display: flex;
+}
+
+.axit__header__menu_p{
+    color: white;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.box{
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0;
+    height: 100%;
+    justify-content: space-between;
+    display: flex;
+}
+
+.axit__banner{
+    padding:0;
+    height: 1026px;
+    width: 1170px;
+    background-image:url("image/bg.png");
+    justify-content: space-between;
+    display: flex;
+}
+
+.axit__banner__text{
+    padding-top: 231px;
+    padding-left: 8%;
+    padding-right: 0;
+    width: 40%;
+}
+
+.axit__banner__text__logo{
+    padding: 0;
+}
+
+.axit__banner__text__title{
+    font-family: 'Raleway',sans-serif;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 72px 0 0;
+}
+
+
+.axit__banner__text__separator{
+    padding: 55px 0 42px;
+}
+
+.axit__banner__text__subtitle{
+    font-family: 'Raleway',sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    padding: 0;
+    width: 50%;
+}
+
+.axit__banner__text__button{
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    width: 270px;
+    height: 58px;
+    background:0;
+    margin-top: 42px;
+
+    font-family: 'Open Sans',sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.axit__banner__form{
+    width: 470px;
+    height: 450px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 208px;
+    margin-right: 8%;
+    padding: 0;
+}
+
+.form{
+    padding: 0;
+}
+
+.axit__banner__form__title{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 24px;
+    line-height: 90px;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.color{
+    color:#EC7979;
+    padding: 0;
+}
+
+.axit__banner__form__box{
+    display: flex;
+    flex-wrap: wrap;
+    padding:45px 0 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.axit__banner__form__box__type{
+    border:0;
+    width: 370px;
+    height: 50px;
+    font-family: 'Open Sans',sans-serif ;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    padding:0 50px 16px ;
+    color: darkgray;
+}
+
+.axit__banner__form__box__type:active, :hover, :focus {
+    outline: 0;
+    outline-offset: 0;
+}
+
+.line{
+    padding:0 50px 33px ;
+    color: #BDBDBD;
+}
+
+.axit__banner__form__button{
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+    background: #EC7979;
+    border: 0;
+    border-radius: 0 0 10px 10px;
+    height: 60px;
+    width: 470px;
+    padding: 0;
+}
+
+.axit__social{
+    height: 140px;
+    background: #F8EFEF;
+    padding: 0;
+    width: 1170px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.axit__social__text{
+    padding-left: 8%;
+    width: 45%;
+}
+
+.axit__social__text__title{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 24px;
+    line-height: 62px;
+    align-items: center;
+    text-transform: capitalize;
+    color: #333333;
+}
+
+.axit__social__text__subtitle{
+    font-family: 'Raleway',sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #86878B;
+    padding-top: 18px;
+}
+
+.axit__social__icon{
+    display: flex;
+    width: 50%;
+    align-items: center;
+
+}
+
+.axit__social__icon__foto{
+    height: 30%;
+}
+
+
+
+

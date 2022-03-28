@@ -1,0 +1,110 @@
+.tabs{
+    max-width: 1170px;
+    padding:100px 0 0;
+}
+
+.tabs__tabmenu{
+    justify-content: space-between;
+    display: flex;
+    padding:0 0 0 0;
+}
+
+.tabs__tabmenu__tab2{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    line-height: 35px;
+    color: #333333;
+    width: 200px;
+    text-align: center;
+    border-bottom: 1px solid #C6CBCD;
+}
+
+.tabs__tabmenu__tab3{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    line-height: 35px;
+    color: #333333;
+    width: 200px;
+    text-align: center;
+    border-bottom: 1px solid #C6CBCD;
+}
+
+.tabs__tabmenu__tab1{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    line-height: 35px;
+    color: #333333;
+    border: 1px solid #C6CBCD;
+    box-sizing: border-box;
+    border-radius: 5px 5px 0 0;
+    width: 203px;
+    height: 40px;
+    text-align: center;
+    border-bottom: white;
+}
+
+
+.tabs__bord{
+    border: 1px solid #C6CBCD;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    border-top: white;
+}
+
+.tabs__bord__text__title{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 30px;
+    line-height: 124px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    padding-bottom: 27px;
+}
+
+.tabs__bord__text__subtitle{
+    font-family: 'Raleway',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    padding:0 0 0 20px;
+}
+
+.tabs__bord__text__subtitle2{
+    font-family: 'Raleway',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    padding:27px 0 0 20px;
+}
+
+.tabs__button{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 600;
+    width: 270px;
+    font-size: 18px;
+    line-height: 58px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background: #EC7979;
+    margin: 27px 0 0 20px;
+    border:0;
+}
+
+.tabs__image{
+    padding: 0;
+    margin-right:-15px ;
+}
+
+.tabs__tabmenu__box{
+    width: 500px;
+    border-bottom: 1px solid #C6CBCD;
+}

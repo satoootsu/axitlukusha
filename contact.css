@@ -1,0 +1,105 @@
+.contact{
+    width: 1170px;
+    height: 722px;
+    padding: 0 0 50px;
+}
+
+.contact__separator{
+    display: flex;
+    margin: 0 auto;
+}
+
+.contact__subtitle{
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    line-height: 21px;
+    padding-top: 40px;
+    font-size: 18px;
+    text-align: center;
+    color: #86878B;
+}
+
+.contact__header{
+    height: 150px;
+    text-align: center;
+    width: 100%;
+    align-content: center;
+    padding: 50px 0 0 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    line-height: 150px;
+    color: black;
+    align-items: center;
+}
+
+.contact__form{
+    padding-top: 88px;
+}
+
+.contact__box{
+    display: flex;
+    padding: 0;
+    justify-content: space-between;
+}
+
+.contact__form1__type{
+    border:0;
+    width: 370px;
+    height: 50px;
+    font-family: 'Open Sans',sans-serif ;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    padding:0 50px 16px ;
+    color: darkgray;
+}
+
+.contact__line{
+    padding:0 50px 33px ;
+    color: #BDBDBD;
+    width: 520px;
+}
+
+.contact__form2__type{
+    border:0;
+    width: 370px;
+    height: 50px;
+    font-family: 'Open Sans',sans-serif ;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    padding:0 0 16px ;
+    color: darkgray;
+    flex-wrap: wrap;
+}
+
+.line2{
+    color: #BDBDBD;
+    width: 520px;
+    height: 1px;
+    padding: 208px 50px 0 0;
+}
+
+.contact__button{
+    background: #EC7979;
+
+    font-family: 'Open Sans',sans-serif;
+    font-size: 18px;
+    line-height: 58px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    border: 0;
+    width: 370px;
+    margin-left: 400px;
+}
+
+.contact__form1{
+    padding: 0;
+    width: 520px;
+}
+
+.contact__form2{
+    padding-left: 90px;
+}
